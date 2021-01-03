@@ -10,8 +10,7 @@ public class LogicOperators {
 		 System.out.println("Value 1 is 1 AND Value 2 is 2: " + result);
 		 
 		 boolean result2 = (value1 == 1) || (value2 == 2);
-		 System.out.println("Value 1 is 1 OR Value 2 is 2: " + result2);
-		 
+		 System.out.println("Value 1 is 1 OR Value 2 is 2: " + result2);		 
 	}
 
 }
